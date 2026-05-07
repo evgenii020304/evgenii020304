@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=evgenii020304)](https://git.io/streak-stats)
+### 📈 GitHub Activity Graph:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evgenii020304&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgenii020304&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=evgenii020304&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenii020304&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=evgenii020304&color=green)
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
